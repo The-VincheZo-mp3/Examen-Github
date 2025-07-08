@@ -1,4 +1,0 @@
-Este es un archivo de ejemplo para demostrar el uso de Git.
-Fue creado para evidenciar la creación de ramas, commits y unificación.
-Proyecto: Reporte por rango de fechas (RF6)
-Autor: [Tu nombre]
